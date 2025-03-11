@@ -14,7 +14,7 @@ Here are a few projects I've worked on:
 
 1. **[Cultural Dress App](https://github.com/Abdika34/FinalProject.git)** - A full-stack application that allows the users to buy Ethiopia Cultural Dress and it have Admin Panel to manage a dress. Implemented using the MERN stack.
    
-2. **[Product Store App]([https://github.com/Abdika34/project2](https://github.com/Abdika34/StoreApp.git))** - Product Store App where user can add product, price and discription . Built with React for the frontend and Node.js and Express.js for the backend and MongoDB for Database.
+2. **[Product Store App](https://github.com/Abdika34/StoreApp.git))** - Product Store App where user can add product, price and discription . Built with React for the frontend and Node.js and Express.js for the backend and MongoDB for Database.
    
 3. **[Project Name 3](https://github.com/Abdika34/project3)** - An e-commerce website featuring product listings, a shopping cart, and user authentication.
 
