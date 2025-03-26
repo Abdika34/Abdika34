@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Abdulkarim!
 
-I'm a passionate Junior Software Developer with a strong interest in building dynamic and responsive Web and Mobile applications. My journey in Software development began during my time at Addis Ababa University School of Commerce, where I earned a degree in Business and Information Systems.
+I'm a passionate Full stack Developer with a strong interest in building dynamic and responsive Web and Mobile applications. My journey in Full Stack development began during my time at Addis Ababa University School of Commerce, where I started my 1st  degree in Business and Information Systems.
 
 ## 🌱 Skills
-- **Frontend**: React, Redux, HTML, CSS, Bootstrap, Talwinds, React Native
-- **Backend**: Node.js, Express.js, RESTful APIs
+- **Frontend**: React, Next.js, Redux, HTML, CSS, Bootstrap, Talwinds, React Native
+- **Backend**: Node.js, Express.js, Java, Springbot, RESTful APIs
 - **Database**: MongoDB, MySQL
 - **Tools**: Git, GitHub, Postman, VS Code
 - **Deployment**: Heroku, Netlify, Render, Vercel
@@ -16,11 +16,11 @@ Here are a few projects I've worked on:
    
 2. **[Product Store App](https://github.com/Abdika34/StoreApp.git))** - Product Store App where user can add product, price and discription . Built with React for the frontend and Node.js and Express.js for the backend and MongoDB for Database.
    
-3. **[Project Name 3](https://github.com/Abdika34/project3)** - An e-commerce website featuring product listings, a shopping cart, and user authentication.
+3. **[Supermarket management system](https://github.com/Abdika34/supermarket-management-system.git)** - supermarket management system that is developed by Java and for data store used file system.
 
 ## 📫 Get in Touch
 - **Email**: abdulkarimabdika950@gmail.com
-- **LinkedIn**: [Abdulkarim Hasan](linkedin.com/in/abdulkarim-hasan-7153a42a3)
+- **LinkedIn**: [Abdulkarim Hasan](https://linkedin.com/in/abdulkarim-hasan-7153a42a3)
 - **Twitter**: [@Abdulkarim70617](https://x.com/Abdulkarim70617?t=R5AF4lm7E4mq77m04MWzQg&s=09)
 
 ## 🎯 Let's Collaborate!
